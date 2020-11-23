@@ -1,0 +1,10 @@
+C:\Michael\MicrosoftLearn\mslearn-xamarin-forms-listview\src\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+C:\Michael\MicrosoftLearn\mslearn-xamarin-forms-listview\src\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+C:\Michael\MicrosoftLearn\mslearn-xamarin-forms-listview\src\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+C:\Michael\MicrosoftLearn\mslearn-xamarin-forms-listview\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.csprojAssemblyReference.cache
+C:\Michael\MicrosoftLearn\mslearn-xamarin-forms-listview\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+C:\Michael\MicrosoftLearn\mslearn-xamarin-forms-listview\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+C:\Michael\MicrosoftLearn\mslearn-xamarin-forms-listview\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.csproj.CoreCompileInputs.cache
+C:\Michael\MicrosoftLearn\mslearn-xamarin-forms-listview\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Michael\MicrosoftLearn\mslearn-xamarin-forms-listview\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+C:\Michael\MicrosoftLearn\mslearn-xamarin-forms-listview\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.pdb
